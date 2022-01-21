@@ -1,0 +1,25 @@
+Такс, начинаем работу с гитом в лолкальном репозитории
+
+Что у нас вообще по плану на ближайщую неделю?
+20 Git/Gitlab
+# git add file | git log | git commit
+21 Git/Gitlab
+# git log | .gitignore | git checkout | git diff
+22 Ansible/docker
+#
+23 Ansible/docker
+#
+24 Ansible/docker
+#
+25 k8s/docker
+#
+26 k8s/docker
+#
+27 k8s/docker
+#
+28 nginx
+#
+29 nginx
+#
+30 postgresql
+#
